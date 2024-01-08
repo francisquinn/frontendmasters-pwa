@@ -120,4 +120,8 @@ body>#toolbar {
           env(safe-area-inset-bottom) 
           env(safe-area-inset-left) !important;
     }
+
+    #itemInstall {
+        display: none;
+    }
 }
